@@ -1,7 +1,6 @@
 const sinon = require("sinon");
 const mongoose = require("mongoose");
 const Todo = require("../server").Todo;
-
 describe("Mocks and Spies for Complex API Logic", () => {
   afterEach(() => {
     sinon.restore();

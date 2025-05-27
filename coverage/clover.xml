@@ -27,6 +27,6 @@
       <line num="39" count="1" type="cond" truecount="2" falsecount="0"/>
       <line num="40" count="1" type="stmt"/>
       <line num="42" count="1" type="stmt"/>
-    </file>
+  </file>
   </project>
 </coverage>

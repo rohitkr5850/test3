@@ -1,4 +1,5 @@
 node_modules
 .github
+coverage
 package-lock.json
 package.json

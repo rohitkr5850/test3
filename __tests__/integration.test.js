@@ -1,7 +1,6 @@
 const request = require("supertest");
 const app = require("../server");
 const mongoose = require("mongoose");
-
 afterAll(async () => {
   await mongoose.connection.close();
 });
